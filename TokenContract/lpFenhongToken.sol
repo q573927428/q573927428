@@ -1,5 +1,6 @@
 /**
  *Submitted for verification at BscScan.com on 2022-08-19
+ *LP分红本币
 */
 
 // SPDX-License-Identifier: MIT
